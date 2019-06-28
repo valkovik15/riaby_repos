@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualMemAlloc", "VirtualMemAlloc\VirtualMemAlloc.vcxproj", "{EEA89B1F-3DE7-4256-8932-C6C0E9B83B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA89B1F-3DE7-4256-8932-C6C0E9B83B75}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEA89B1F-3DE7-4256-8932-C6C0E9B83B75}.Debug|x86.Build.0 = Debug|Win32
+		{EEA89B1F-3DE7-4256-8932-C6C0E9B83B75}.Release|x86.ActiveCfg = Release|Win32
+		{EEA89B1F-3DE7-4256-8932-C6C0E9B83B75}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A51ABA3A-9023-4349-B160-B342B329DCF8}
+	EndGlobalSection
+EndGlobal

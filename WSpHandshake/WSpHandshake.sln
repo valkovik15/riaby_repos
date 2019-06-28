@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09 Handshake", "09-Handshake\09 Handshake.vcxproj", "{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09 Queue", "09-Queue\09 Queue.vcxproj", "{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhilSemaphoreSolution", "PhilSemaphoreSolution\PhilSemaphoreSolution.vcxproj", "{3FA84DD5-ED95-41B2-B56F-05762926B7F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Alpha32 Debug|x86 = Alpha32 Debug|x86
+		Alpha32 Release|x86 = Alpha32 Release|x86
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Alpha32 Debug|x86.ActiveCfg = Alpha32 Debug|Win32
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Alpha32 Debug|x86.Build.0 = Alpha32 Debug|Win32
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Alpha32 Release|x86.ActiveCfg = Alpha32 Release|Win32
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Alpha32 Release|x86.Build.0 = Alpha32 Release|Win32
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Debug|x86.ActiveCfg = Debug|Win32
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Debug|x86.Build.0 = Debug|Win32
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Release|x86.ActiveCfg = Release|Win32
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Release|x86.Build.0 = Release|Win32
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Template|x86.ActiveCfg = Alpha32 Release|Win32
+		{7DA04CD0-AD3B-4BDF-81AE-9D8CF442A43D}.Template|x86.Build.0 = Alpha32 Release|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Alpha32 Debug|x86.ActiveCfg = Alpha32 Debug|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Alpha32 Debug|x86.Build.0 = Alpha32 Debug|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Alpha32 Release|x86.ActiveCfg = Alpha32 Release|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Alpha32 Release|x86.Build.0 = Alpha32 Release|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Debug|x86.Build.0 = Debug|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Release|x86.ActiveCfg = Release|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Release|x86.Build.0 = Release|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Template|x86.ActiveCfg = Template|Win32
+		{B8E7E526-CCDF-4C7E-BCD9-2518C462A8C4}.Template|x86.Build.0 = Template|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Alpha32 Debug|x86.ActiveCfg = Debug|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Alpha32 Debug|x86.Build.0 = Debug|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Alpha32 Release|x86.ActiveCfg = Release|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Alpha32 Release|x86.Build.0 = Release|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Debug|x86.Build.0 = Debug|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Release|x86.ActiveCfg = Release|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Release|x86.Build.0 = Release|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Template|x86.ActiveCfg = Template|Win32
+		{3FA84DD5-ED95-41B2-B56F-05762926B7F1}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB1F290C-A6E5-4A5F-AB66-A213786C783B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,129 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+// Generated Help ID header file
+#define APSTUDIO_HIDDEN_SYMBOLS
+#include "resource.hm"
+#undef APSTUDIO_HIDDEN_SYMBOLS
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Russian resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+#ifdef _WIN32
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_VM_ALLOC DIALOGEX 0, 0, 376, 181
+STYLE DS_MODALFRAME | DS_SETFOREGROUND | WS_MINIMIZEBOX | WS_POPUP | 
+    WS_CAPTION | WS_SYSMENU
+CAPTION "Allocation"
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "Page Size",IDC_STATIC_PG_SIZE_NAME,21,11,33,8
+    LTEXT           "0 KB",IDC_STATIC_PG_SIZE_VALUE,79,13,28,11,0,
+                    WS_EX_STATICEDGE
+    PUSHBUTTON      "&Reserve region for array[40]",
+                    IDC_BUTTON_RESERVE_REGION,131,9,107,14
+    GROUPBOX        "Component array in use",IDC_STATIC_BOX_ARRAY,7,42,362,
+                    48
+    LTEXT           "Index in [0 - 39] ",IDC_STATIC_INDEX,17,64,52,8
+    EDITTEXT        IDC_EDIT_INDEX,74,61,16,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "&Use (commit if necessary)",IDC_BUTTON_USE,98,61,86,14
+    PUSHBUTTON      "&Dispose",IDC_BUTTON_DISPOSE,196,61,50,14,0,0,
+                    HIDC_BUTTON_DISPOSE
+    PUSHBUTTON      "&Collect garbage",IDC_BUTTON_COLLECT,292,75,77,14
+    GROUPBOX        "Array memory map",IDC_STATIC_MEM_MAP,7,103,362,71
+    LTEXT           "White: Free     Blue: Reserved    Red: Committed",
+                    IDC_STATIC_COMMENT,94,157,188,8
+    PUSHBUTTON      "R&elease region",IDC_BUTTON_RELEASE,278,9,57,14
+    LTEXT           "",IDC_STATIC_MAP_WND,18,127,338,8,SS_SUNKEN
+    LTEXT           "Page state",IDC_STATIC_PAGE_STATE,23,157,35,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_VM_ALLOC, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 369
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON_VIRTUAL_MEM    ICON    DISCARDABLE     "icon_vir.ico"
+#endif    // Russian resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

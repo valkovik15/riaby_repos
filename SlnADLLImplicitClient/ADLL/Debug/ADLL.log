@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ADLL.cpp
+ADLL.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library C:\Users\fpm.kopochel\source\repos\SlnADLLImplicitClient\Debug\ADLL.lib and object C:\Users\fpm.kopochel\source\repos\SlnADLLImplicitClient\Debug\ADLL.exp
+  ADLL.vcxproj -> C:\Users\fpm.kopochel\source\repos\SlnADLLImplicitClient\Debug\ADLL.dll

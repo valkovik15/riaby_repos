@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADLL", "ADLL\ADLL.vcproj", "{590E1D8F-DC61-4EE9-AB8A-346B17E41FAD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImplicitClientDLL", "ImplicitClientDLL\ImplicitClientDLL.vcproj", "{84136A7D-D2C2-410D-B628-ECC958ED501D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590E1D8F-DC61-4EE9-AB8A-346B17E41FAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{590E1D8F-DC61-4EE9-AB8A-346B17E41FAD}.Debug|Win32.Build.0 = Debug|Win32
+		{590E1D8F-DC61-4EE9-AB8A-346B17E41FAD}.Release|Win32.ActiveCfg = Release|Win32
+		{590E1D8F-DC61-4EE9-AB8A-346B17E41FAD}.Release|Win32.Build.0 = Release|Win32
+		{84136A7D-D2C2-410D-B628-ECC958ED501D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{84136A7D-D2C2-410D-B628-ECC958ED501D}.Debug|Win32.Build.0 = Debug|Win32
+		{84136A7D-D2C2-410D-B628-ECC958ED501D}.Release|Win32.ActiveCfg = Release|Win32
+		{84136A7D-D2C2-410D-B628-ECC958ED501D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  StdAfx.cpp
+  ProtectVirtualMem.cpp
+ProtectVirtualMem.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  ProtectVirtualMem.vcxproj -> C:\Users\fpm.kopochel\source\repos\WSpProtectVirtualMem\ProtectVirtualMem\.\Debug\ProtectVirtualMem.exe

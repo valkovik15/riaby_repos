@@ -1,0 +1,7 @@
+﻿  Queue.cpp
+c:\users\fpm.kopochel\source\repos\wsphandshake\cmnhdr.h(225): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+c:\users\fpm.kopochel\source\repos\wsphandshake\cmnhdr.h(235): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+Queue.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  09 Queue.vcxproj -> C:\Users\fpm.kopochel\source\repos\WSpHandshake\09-Queue\.\Debug\09 Queue.exe

@@ -1,0 +1,18 @@
+﻿  StdAfx.cpp
+  PgFlClient.cpp
+c:\users\fpm.kopochel\source\repos\wspsyspagingfiles\wspsyspagingfiles\pgflclient\pgflclient.cpp(27): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\fpm.kopochel\source\repos\wspsyspagingfiles\wspsyspagingfiles\pgflclient\pgflclient.cpp(34): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\fpm.kopochel\source\repos\wspsyspagingfiles\wspsyspagingfiles\pgflclient\pgflclient.cpp(44): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\fpm.kopochel\source\repos\wspsyspagingfiles\wspsyspagingfiles\pgflclient\pgflclient.cpp(51): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\fpm.kopochel\source\repos\wspsyspagingfiles\wspsyspagingfiles\pgflclient\pgflclient.cpp(63): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\fpm.kopochel\source\repos\wspsyspagingfiles\wspsyspagingfiles\pgflclient\pgflclient.cpp(73): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(456): note: see declaration of 'getche'
+c:\users\fpm.kopochel\source\repos\wspsyspagingfiles\wspsyspagingfiles\pgflclient\pgflclient.cpp(94): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+PgFlClient.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PgFlClient.vcxproj -> C:\Users\fpm.kopochel\source\repos\WSpSysPagingFiles\WSpSysPagingFiles\PgFlClient\.\Debug\PgFlClient.exe

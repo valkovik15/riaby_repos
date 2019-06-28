@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  DoPipeLine.cpp
+c:\users\fpm.kopochel\source\repos\newdopipelinelikecmd\slnpipeline\dopipeline\dopipeline.cpp(31): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(2039): note: see declaration of 'swscanf'
+c:\users\fpm.kopochel\source\repos\newdopipelinelikecmd\slnpipeline\dopipeline\dopipeline.cpp(70): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(100): note: see declaration of 'wcscat'
+c:\users\fpm.kopochel\source\repos\newdopipelinelikecmd\slnpipeline\dopipeline\dopipeline.cpp(71): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(100): note: see declaration of 'wcscat'
+c:\users\fpm.kopochel\source\repos\newdopipelinelikecmd\slnpipeline\dopipeline\dopipeline.cpp(72): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(100): note: see declaration of 'wcscat'
+DoPipeLine.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DoPipeLine.vcxproj -> C:\Users\fpm.kopochel\source\repos\NewDoPipeLineLikeCMD\slnPipeLine\Debug\DoPipeLine.exe

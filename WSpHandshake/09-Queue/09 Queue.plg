@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 09 Queue - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/Queue.res" /d "_DEBUG" "C:\Users\Riaby\OS\Тема4_Syncronazation\WSpHandshake\09-Queue\Queue.rc"" 
+Creating temporary file "C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP3B.tmp" with contents
+[
+/nologo /MD /W4 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/09 Queue.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Riaby\OS\Тема4_Syncronazation\WSpHandshake\09-Queue\Queue.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP3B.tmp" 
+Creating temporary file "C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP3C.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/09 Queue.pdb" /debug /machine:I386 /out:"Debug/09 Queue.exe" /pdbtype:sept 
+".\Debug\Queue.obj"
+".\Debug\Queue.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP3C.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+Queue.cpp
+You are not using the latest Platform SDK header/library 
+files. This may prevent the project from building correctly.
+Linking...
+
+
+
+<h3>Results</h3>
+09 Queue.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

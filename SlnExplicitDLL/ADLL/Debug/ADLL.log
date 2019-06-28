@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+  LINK : C:\Users\fpm.kopochel\source\repos\SlnExplicitDLL\Debug\ADLL.dll not found or not built by the last incremental link; performing full link
+ADLL.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library C:\Users\fpm.kopochel\source\repos\SlnExplicitDLL\Debug\ADLL.lib and object C:\Users\fpm.kopochel\source\repos\SlnExplicitDLL\Debug\ADLL.exp
+  ADLL.vcxproj -> C:\Users\fpm.kopochel\source\repos\SlnExplicitDLL\Debug\ADLL.dll

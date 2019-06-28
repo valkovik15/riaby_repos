@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Sum.cpp
+stdafx.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Sum.vcxproj -> C:\Users\fpm.kopochel\source\repos\NewDoPipeLineLikeCMD\slnPipeLine\Debug\Sum.exe

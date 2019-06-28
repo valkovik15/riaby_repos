@@ -1,0 +1,4 @@
+﻿  StdAfx.cpp
+  VirtualMemAlloc.cpp
+StdAfx.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  VirtualMemAlloc.vcxproj -> C:\Users\fpm.kopochel\source\repos\WSpVirtualMem\VirtualMemAlloc\.\Debug\VirtualMemAlloc.exe

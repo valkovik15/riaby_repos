@@ -1,0 +1,4 @@
+﻿  StdAfx.cpp
+  ProcessB.cpp
+ProcessB.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  ProcessB.vcxproj -> C:\Users\fpm.kopochel\source\repos\WSpInheritTerminate\WSpInheritTerminate\ProcessB\.\..\ProcessA\Debug\ProcessB.exe

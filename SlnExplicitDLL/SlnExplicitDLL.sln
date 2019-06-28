@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADLL", "ADLL\ADLL.vcxproj", "{2B762B01-614A-4ACE-9672-3807C0A6AC80}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExplicitClientADLL", "ExplicitClientADLL\ExplicitClientADLL.vcxproj", "{91E5A043-42D8-4167-A140-F063B428F89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B762B01-614A-4ACE-9672-3807C0A6AC80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B762B01-614A-4ACE-9672-3807C0A6AC80}.Debug|Win32.Build.0 = Debug|Win32
+		{2B762B01-614A-4ACE-9672-3807C0A6AC80}.Release|Win32.ActiveCfg = Release|Win32
+		{2B762B01-614A-4ACE-9672-3807C0A6AC80}.Release|Win32.Build.0 = Release|Win32
+		{91E5A043-42D8-4167-A140-F063B428F89B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91E5A043-42D8-4167-A140-F063B428F89B}.Debug|Win32.Build.0 = Debug|Win32
+		{91E5A043-42D8-4167-A140-F063B428F89B}.Release|Win32.ActiveCfg = Release|Win32
+		{91E5A043-42D8-4167-A140-F063B428F89B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5687AAE8-F0F2-4B61-B52C-D42145CAE209}
+	EndGlobalSection
+EndGlobal

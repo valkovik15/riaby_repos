@@ -1,0 +1,5 @@
+﻿  Instances.cpp
+c:\users\fpm.kopochel\source\repos\wspshrdsection\instances\instances.cpp(32): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+Instances.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Instances.vcxproj -> C:\Users\fpm.kopochel\source\repos\WSpShrdSection\Instances\.\Debug\Instances.exe

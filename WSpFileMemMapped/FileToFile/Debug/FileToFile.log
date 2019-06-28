@@ -1,0 +1,8 @@
+﻿  StdAfx.cpp
+  WndHandles.cpp
+c:\users\fpm.kopochel\source\repos\wspfilememmapped\filetofile\wndhandles.cpp(168): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  FileToFile.cpp
+  Generating Code...
+FileToFile.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  FileToFile.vcxproj -> C:\Users\fpm.kopochel\source\repos\WSpFileMemMapped\FileToFile\.\Debug\FileToFile.exe

@@ -1,0 +1,10 @@
+﻿  StdAfx.cpp
+  PhilSemaphoreSolution.cpp
+c:\users\fpm.kopochel\source\repos\wsphandshake\philsemaphoresolution\philsemaphoresolution.cpp(96): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\fpm.kopochel\source\repos\wsphandshake\philsemaphoresolution\philsemaphoresolution.cpp(221): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\fpm.kopochel\source\repos\wsphandshake\philsemaphoresolution\philsemaphoresolution.cpp(227): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+PhilSemaphoreSolution.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PhilSemaphoreSolution.vcxproj -> C:\Users\fpm.kopochel\source\repos\WSpHandshake\PhilSemaphoreSolution\.\Debug\PhilSemaphoreSolution.exe

@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 09 Handshake - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/Handshake.res" /d "_DEBUG" "C:\Users\Riaby\OS\Тема4_Syncronazation\WSpHandshake\09-Handshake\Handshake.rc"" 
+Creating temporary file "C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP3E.tmp" with contents
+[
+/nologo /MD /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/09 Handshake.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Riaby\OS\Тема4_Syncronazation\WSpHandshake\09-Handshake\Handshake.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP3E.tmp" 
+Creating temporary file "C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP3F.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/09 Handshake.pdb" /debug /machine:I386 /out:"Debug/09 Handshake.exe" /pdbtype:sept 
+".\Debug\Handshake.obj"
+".\Debug\Handshake.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP3F.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+Handshake.cpp
+You are not using the latest Platform SDK header/library 
+files. This may prevent the project from building correctly.
+Linking...
+
+
+
+<h3>Results</h3>
+09 Handshake.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
